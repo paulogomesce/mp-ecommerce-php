@@ -8,6 +8,6 @@ class NewPreferenceRequest{
     public $payer;
     public $payment_methods;
     public $back_urls;
-    public $notification_url;
+    public $notification_url = "http://marketingvitrinelivre.pe.hu/notification-url.php";
 }
 ?>

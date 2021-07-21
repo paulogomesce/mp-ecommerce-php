@@ -578,7 +578,7 @@
                                         <input type="hidden" name="street_name" value="<?=$street_name?>">
                                         <input type="hidden" name="street_number" value="<?=$street_number?>">
 
-                                        <button type="submit" class="mercadopago-button" formmethod="post">Pagar</button>
+                                        <button type="submit" class="mercadopago-button" formmethod="post">Confirmar Compra</button>
                                     </form>
 
 
