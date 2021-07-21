@@ -668,8 +668,8 @@
                                             </div>
                                         </div>
                                         
-                                        <form action="/mp-ecommerce-php/detail.php" method="get">
-                                            <input type="hidden" name="img" value="http://<?= $_SERVER['SERVER_NAME'] ?>/mp-ecommerce-php/assets/003.jpg">
+                                        <form action="/detail.php" method="get">
+                                            <input type="hidden" name="img" value="http://<?= $_SERVER['SERVER_NAME'] ?>/assets/003.jpg">
                                             <input type="hidden" name="title" value="<?=$title?>">
                                             <input type="hidden" name="description" value="<?=$description?>">
                                             <input type="hidden" name="unit" value="1">

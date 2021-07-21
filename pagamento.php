@@ -544,7 +544,7 @@
                                         "1234",
                                         "Nome do produto selecionado no carrinho de venda",
                                         "Celular de Tienda e-commerce",
-                                        "https://vitrinelivre.com.br/vitrinelivre/wp-content/uploads/2017/12/Azul-Cromado-Marron-01.png",
+                                        "https://news.mynavi.jp/article/20180416-xperia-next/images/003.jpg",
                                         1,
                                         99.99
                                     );
@@ -565,9 +565,9 @@
 
                                     //URL's DE RETORNO
                                     $BackUrls = new BackUrls(
-                                        "http://localhost/mp-ecommerce-php/pagamento-aprovado.php",
-                                        "http://localhost/mp-ecommerce-php/pagamento-pendente.php",
-                                        "http://localhost/mp-ecommerce-php/pagamento-rejeitado.php"
+                                        "http://marketingvitrinelivre.pe.hu/pagamento-aprovado.php",
+                                        "http://marketingvitrinelivre.pe.hu/pagamento-pendente.php",
+                                        "http://marketingvitrinelivre.pe.hu/pagamento-rejeitado.php"
                                     );
 
                                     $preference = new NewPreferenceRequest();
