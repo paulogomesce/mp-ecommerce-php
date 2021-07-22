@@ -12,7 +12,7 @@
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
-
+    <script src="https://www.mercadopago.com/v2/security.js" view="checkout" output="deviceId"></script>
 
     <link rel="stylesheet" href="./assets/category-landing.css" media="screen, print">
 
@@ -650,8 +650,6 @@
             <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle>
         </svg> </div>
     <div id="ac-gn-viewport-emitter"> </div>
-
-    <script src="https://www.mercadopago.com/v2/security.js" view="home"></script>
     
 </body>
 
